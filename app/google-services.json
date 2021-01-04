@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742826786732",
+    "project_id": "ecommerce-12fad",
+    "storage_bucket": "ecommerce-12fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742826786732:android:940dfdd18dba35d5824409",
+        "android_client_info": {
+          "package_name": "com.example.spree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742826786732-uvhsuakkomnbok9ulssk59gtm9ev9fab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spree",
+            "certificate_hash": "1c46a1bfe5c58b7aa8929f8c7164f28e4638a279"
+          }
+        },
+        {
+          "client_id": "742826786732-nqqjotdlmb073kuq4od6l9f89kk2g036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0jpHTu8orlZaiwUyi6cMuyYRmNrWTPGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742826786732-nqqjotdlmb073kuq4od6l9f89kk2g036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
